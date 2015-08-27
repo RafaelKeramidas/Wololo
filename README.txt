@@ -1,3 +1,5 @@
+NOTE: This project is old and not maintained anymore. 
+
 #About
 Wololo is a small and nice Wake on LAN web interface. You can easily send Magic Packets to your computers on your local network and check if they are on. 
 
